@@ -1,5 +1,5 @@
-<p align="center">
-    <img width="300" src="https://Vitor-HenriqueAS.github.io/mundo-invertido/assets/images/banner/logo.svg">
+<p align="center" dir="auto">
+    <img width="300" src="./assets/images/banner/logo.svg">
 </p>
 
 -------
@@ -47,10 +47,11 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/92743903?v=4"/>
     <p>&nbsp;&nbsp;&nbsp;Vitor Henrique<br>&nbsp;&nbsp;&nbsp;
-		<a href="https://github.com/Vitor-HenriqueAS">GitHub</a>&nbsp;|&nbsp;
-		<a href="https://www.linkedin.com/in/vitor-henrique-295a4923b/">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://github.com/Vitor-HenriqueAS">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/vitor-henrique-295a4923b/">LinkedIn</a></p>
 </p>
 
+<br>
 
 ## 🌎 Redes sociais DIO
 <p>
